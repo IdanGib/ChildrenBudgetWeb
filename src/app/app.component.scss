@@ -1,3 +1,6 @@
-h1 {
-    text-align: center;
+:host {
+    .title {
+        text-align: center;
+        color: var(--color-main);
+    }
 }
